@@ -1,0 +1,2 @@
+# settings
+自分用のwindowsやらWSLやらandroidの設定をまとめる
